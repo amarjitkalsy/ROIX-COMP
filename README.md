@@ -8,4 +8,31 @@ The compression module applies variable compression techniques including error-b
 3. Decompression
 The decompression module handles the restoration of processed data, ensuring proper reconstruction of ROI areas and efficient rendering of the final output.
 
+Software Requirements
+Operating System
+Up-to-date mainstream Linux distribution (e.g., Fedora or newer)
+
+Compiler and Build System
+C++ compliant host compiler (tested on GCC 13.2.1)
+
+Modern CMake build system (e.g., 3.27.0-rc2 or newer)
+
+Dependencies
+The following libraries are required:
+
+NumPy 2.0
+
+OpenCV 4.9.0
+
+Zstandard 0.22
+
+Gzip 1.12
+
+Compression Library Integration
+For integration with SZ and ZFP compression libraries:
+
+LibPressio installation is required
+
+For detailed instructions, refer to: https://github.com/robertu94/libpressio
+
 
