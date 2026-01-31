@@ -3,6 +3,8 @@
 <div align="center">
 
 ![ROIX Banner](https://github.com/user-attachments/assets/0ae6bd22-2022-4e2d-99e1-430a2f318337)
+<img width="888" height="144" alt="image" src="https://github.com/user-attachments/assets/ee8eafb1-4c07-49e8-9919-b9b855fa2bb9" />
+
 
 **Region-of-Interest Extraction and Compression Tool**
 
