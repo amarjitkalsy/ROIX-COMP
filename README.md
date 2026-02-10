@@ -1,5 +1,6 @@
 # ROIX-Comp
-Our paper https://dl.acm.org/doi/10.1145/3773656.3773665
+Amarjit Singh, Kento Sato, Kohei Yoshida, Kentaro Uesugi, Yasumasa Joti, Takaki Hatsui, and Andrès Rubio Proaño. 2026. ROIX-Comp: Optimizing X-ray Computed Tomography Imaging Strategy for Data Reduction and Reconstruction. In Proceedings of the Supercomputing Asia and International Conference on High Performance Computing in Asia Pacific Region (SCA/HPCAsia '26). Association for Computing Machinery, New York, NY, USA, 351–361. https://doi.org/10.1145/3773656.3773665
+
 <div align="center">
 
 ![ROIX Banner](https://github.com/user-attachments/assets/0ae6bd22-2022-4e2d-99e1-430a2f318337)
